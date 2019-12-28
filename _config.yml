@@ -1,11 +1,11 @@
 # Site settings
 author: Shirl Williams
-title: 
+title: My Data Science Journey
 header-img: img/home-bg.png
 email: shirl.williams@icloud.com
 copyright_name: Shirl Williams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Projects, descriptions, tutorials, my journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  shirlwilliams
